@@ -307,16 +307,16 @@ iframe {
   }
   .img-responsive-3 {
     align-content: center;
-    margin-top: 30px;
+    margin-top: 0;
     margin-left: auto;
   }
   .img-responsive-4 {
     align-content: center;
-    margin-left: auto;
+    margin-left: 10px;
   }
   .img-responsive-5 {
     align-content: center;
-    margin-left: auto;
+    margin-left: 30px;
   }
   .give {
     margin-bottom: 20px;
