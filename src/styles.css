@@ -278,7 +278,7 @@ iframe {
     font-size: 20px;
   }
   header h3 {
-    font-size: 12px;
+    font-size: 20px;
   }
   .grid {
     grid-template-columns: 1fr;
@@ -295,9 +295,23 @@ iframe {
     width: 100%;
   }
   .youtube-embed {
-    margin-left: 3px;
+    margin-top: 30px;
+    margin-bottom: 30px;
   }
   .img-responsive {
+    align-content: center;
+  }
+  .img-responsive-2 {
+    align-content: center;
+  }
+  .img-responsive-3 {
+    align-content: center;
+    margin-top: 30px;
+  }
+  .img-responsive-4 {
+    align-content: center;
+  }
+  .img-responsive-5 {
     align-content: center;
   }
 }
