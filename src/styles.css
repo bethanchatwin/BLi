@@ -318,7 +318,7 @@ iframe {
   }
   .img-responsive-5 {
     align-content: center;
-    margin-left: 45px;
+    margin-left: 50px;
     margin-bottom: 30px;
   }
   .give {
@@ -334,5 +334,9 @@ iframe {
   .grid-3-columns {
     margin-top: 20px;
     margin-bottom: 30px;
+  }
+  .btn {
+    margin-top: 30px;
+    margin-bottom: 20px;
   }
 }
