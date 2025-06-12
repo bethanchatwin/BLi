@@ -64,8 +64,9 @@ h3 {
   max-width: 100%;
   margin-bottom: 20px;
   height: 171px;
-  width: 400px;
+  width: 200px;
   margin-left: 70px;
+  align-content: center;
 }
 .img-responsive-3 {
   max-width: 100%;
@@ -73,6 +74,7 @@ h3 {
   height: 171px;
   width: 200px;
   margin-left: 125px;
+  margin-top: 35px;
 }
 .img-responsive-4 {
   margin-bottom: 20px;
