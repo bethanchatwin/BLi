@@ -309,7 +309,7 @@ iframe {
   .img-responsive-3 {
     align-content: center;
     margin-top: 30px;
-    margin-left: 40px;
+    margin-left: 35px;
   }
   .img-responsive-4 {
     align-content: center;
@@ -326,5 +326,13 @@ iframe {
   }
   .beth {
     margin-bottom: 10px;
+  }
+  .grid-2-columns {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .grid-3-columns {
+    margin-top: 20px;
+    margin-bottom: 30px;
   }
 }
