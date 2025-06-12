@@ -297,6 +297,7 @@ iframe {
   .youtube-embed {
     margin-top: 10px;
     margin-bottom: 10px;
+    max-width: fit-content;
   }
   .img-responsive {
     align-content: center;
@@ -307,18 +308,18 @@ iframe {
   }
   .img-responsive-3 {
     align-content: center;
-    margin-top: 0;
-    margin-left: auto;
+    margin-top: 30px;
+    margin-left: 50px;
   }
   .img-responsive-4 {
     align-content: center;
-    margin-left: 10px;
+    margin-left: 15px;
   }
   .img-responsive-5 {
     align-content: center;
-    margin-left: 30px;
+    margin-left: 50px;
   }
   .give {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
 }
