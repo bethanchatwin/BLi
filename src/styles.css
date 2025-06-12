@@ -303,15 +303,19 @@ iframe {
   }
   .img-responsive-2 {
     align-content: center;
+    margin-left: 0;
   }
   .img-responsive-3 {
     align-content: center;
     margin-top: 30px;
+    margin-left: 0;
   }
   .img-responsive-4 {
     align-content: center;
+    margin-left: 0;
   }
   .img-responsive-5 {
     align-content: center;
+    margin-left: 0;
   }
 }
